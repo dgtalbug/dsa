@@ -1,7 +1,3 @@
-# Our DSA 
-
-## Introduction
-
 # 🕵️‍♂️ An Undercover Operation into the World of DSA
 
 🎉 Welcome, welcome, welcome! 🎉 Pull up a chair, code cowboys 🤠 and bug busters 🐜, to the mesmerizing spectacle that is the world of Data Structures and Algorithms (DSA)! This here repository is the brainchild of a gang of nocturnal code enthusiasts who traded sunlight ☀️ for semicolons ; and we couldn't be more grateful (though, a little Vitamin D never hurt anyone, folks! 😄).
@@ -24,3 +20,4 @@ This repository contains:
 2. **Algorithms**: Various algorithms in categories such as sorting, searching, dynamic programming, greedy algorithms, etc. 
 
 
+> Finetuned by chatGpt
