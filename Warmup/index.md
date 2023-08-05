@@ -4,3 +4,4 @@
 1. Contains Duplicate
 2. Is Pangram
 3. Is Anagram
+4. Word Distance
