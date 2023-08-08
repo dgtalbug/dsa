@@ -7,3 +7,4 @@
 4. Word Distance
 5. Good Pairs
 6. Square Root
+7. Is Palindrome
